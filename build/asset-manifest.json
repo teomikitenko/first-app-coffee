@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b9044af.css",
+    "main.js": "/static/js/main.dcc63391.js",
+    "static/media/MaskGroup.jpg": "/static/media/MaskGroup.e3f5093ea8367ad771ef.jpg",
+    "static/media/Main.jpg": "/static/media/Main.ad9c54d6db833396a159.jpg",
+    "static/media/Mask.jpg": "/static/media/Mask.e8094fc787f35d4856eb.jpg",
+    "static/media/Pleasure.jpg": "/static/media/Pleasure.291949b24ac3631a2ea8.jpg",
+    "static/media/AROMISTICO.jpg": "/static/media/AROMISTICO.ca37a7e1a91fa817a123.jpg",
+    "static/media/Middle.jpg": "/static/media/Middle.b51853dec5764eae4163.jpg",
+    "static/media/STARBUCKS.jpg": "/static/media/STARBUCKS.83952624c386e529dad5.jpg",
+    "static/media/coffee.jpg": "/static/media/coffee.ae49f177399e0a170c45.jpg",
+    "static/media/JACOBS.jpg": "/static/media/JACOBS.0613597d2badc5eee032.jpg",
+    "static/media/item2.jpg": "/static/media/item2.a98bf35548347394b465.jpg",
+    "static/media/LAVAZZA.jpg": "/static/media/LAVAZZA.275c559458c351f1d63c.jpg",
+    "static/media/Card.jpg": "/static/media/Card.b3676b98fa2f089e093b.jpg",
+    "static/media/item3.jpg": "/static/media/item3.b3676b98fa2f089e093b.jpg",
+    "static/media/item1.jpg": "/static/media/item1.79e895192576e9620b5c.jpg",
+    "static/media/BLASERCAFE.jpg": "/static/media/BLASERCAFE.8fc9bd7d582cb2ad7a1a.jpg",
+    "static/media/coffee-beans.svg": "/static/media/coffee-beans.d7837edb6d1340c03f10.svg",
+    "static/media/blackBeans.svg": "/static/media/blackBeans.90c8ee8405569cacb5182bee3b88c368.svg",
+    "static/media/beansNew.svg": "/static/media/beansNew.95b93d19f3a0b308c42b7e7e2347b5eb.svg",
+    "index.html": "/index.html",
+    "main.4b9044af.css.map": "/static/css/main.4b9044af.css.map",
+    "main.dcc63391.js.map": "/static/js/main.dcc63391.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b9044af.css",
+    "static/js/main.dcc63391.js"
+  ]
+}
