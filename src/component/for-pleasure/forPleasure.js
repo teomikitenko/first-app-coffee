@@ -8,9 +8,7 @@ import Footer from "../footer/footer";
 
 
 class ForPleasure extends Component{
-    constructor(props){
-        super(props)
-    }
+   
     onSend=(name,img,country,price)=>{
         let{onCreate}=this.props;
         onCreate(name,img,country,price)
