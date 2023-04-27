@@ -1,0 +1,53 @@
+
+.text_for_middle{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    }
+    .middle_text{
+    margin-top: 80px;
+    }
+    .about_us_text_head{
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    }
+    .about_us_text{
+    margin-top: 40px;
+    
+    width: 589px;
+    height: 223px;
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    
+    }
+    .beans_black_block{
+    margin-top: 20px;
+    position: relative;
+    }
+    .beans_black_block::after{
+    content: '';
+    position: absolute;
+    top: 15px;
+    left: 50px;
+    width: 60px;
+    height: 1px;
+    background-color: black;
+    }
+    .beans_black_block::before{
+    content: '';
+    position: absolute;
+    top: 15px;
+    right: 50px;
+    width: 60px;
+    height: 1px;
+    background-color: black;
+    } 
