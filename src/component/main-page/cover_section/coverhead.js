@@ -1,7 +1,7 @@
 import './coverhead.css'
 import Main from './img/Main.jpg'
 import beansNew from './img/beansNew.svg' 
-import { Outlet, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 
 function Coverhead(){

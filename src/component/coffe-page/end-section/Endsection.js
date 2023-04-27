@@ -1,7 +1,5 @@
 import './Endsection.css'
-import Card from './Card.jpg'
 import { Component } from 'react'
-import nextId from "react-id-generator";
 import { Link } from 'react-router-dom';
 
 
